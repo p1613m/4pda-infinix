@@ -713,6 +713,29 @@
 	border-radius: 10px;
 	color: #000000;
 	font-family: 'AktivGroteskEx', sans-serif;
+	position: relative;
+	overflow: hidden;
+	font-size: 12px;
+}
+.promo-infinix-sidebar-ad {
+	position: absolute;
+	top: 0;
+	right: 0;
+	padding: 5px 8px;
+	background-color: white;
+	color: #000;
+}
+.promo-infinix-sidebar-ad .promo-infinix-sidebar-ad-text {
+	display: inline-block;
+}
+.promo-infinix-sidebar-ad .promo-infinix-sidebar-ad-url {
+	display: none;
+}
+.promo-infinix-sidebar-ad:hover .promo-infinix-sidebar-ad-url {
+	display: inline-block;
+}
+.promo-infinix-sidebar-ad:hover .promo-infinix-sidebar-ad-text {
+	display: none;
 }
 .promo-infinix-sidebar-title {
 	font-size: 30px;
