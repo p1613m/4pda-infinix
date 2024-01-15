@@ -287,7 +287,6 @@
 }
 .promo-infinix-interesting-item-ad img {
 	width: 100%;
-	height: 400px;
 	object-fit: cover;
 	border-radius: 10px;
 }
@@ -388,9 +387,17 @@
 .promo-infinix-video-image-wrapper {
 	position: relative;
 }
+.promo-infinix-video-item path {
+	/*fill: rgba(100, 255, 0, 0.36);*/
+	fill: transparent;
+	stroke: #000;
+}
+.promo-infinix-video-item:hover path {
+	stroke: rgb(100, 255, 0);
+}
 .promo-infinix-video-item img {
 	height: 240px;
-	border-radius: 30%;
+	border-radius: 10px;
 	object-fit: cover;
 	display: block;
 	width: 100%;
@@ -523,9 +530,6 @@
 	}
 	.promo-infinix-video-item:nth-child(3) {
 		display: none;
-	}
-	.promo-infinix-video-image-wrapper img {
-		border-radius: 30px;
 	}
 	.promo-infinix-video-item {
 		flex-basis: 50%;
