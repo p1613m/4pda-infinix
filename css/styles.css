@@ -802,3 +802,9 @@
 .promo-infinix-sidebar-landscape .promo-infinix-sidebar-content > * {
 	flex-basis: 100%;
 }
+.promo-infinix-sidebar-landscape .promo-infinix-sidebar-content img {
+	flex-basis: 165px;
+	height: 156px;
+	display: block;
+	width: 100%;
+}
