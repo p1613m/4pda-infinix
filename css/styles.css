@@ -353,6 +353,20 @@
 	display: block;
 	object-fit: contain;
 }
+.promo-infinix-people-item-ad {
+	background: transparent;
+	border-radius: 0;
+	padding: 0;
+	display: block;
+}
+.promo-infinix-people-item-ad img {
+	width: 100%;
+	display: block;
+	border-radius: 10px;
+}
+.promo-infinix-people-item-ad-177 {
+	display: none !important;
+}
 .promo-infinix-people-right {
 	display: flex;
 	flex-direction: column;
@@ -459,10 +473,16 @@
 	.promo-infinix-reviews-subtitle {
 		font-size: 20px;
 	}
-	.promo-infinix-people-item {
+	.promo-infinix-people-item:not(.promo-infinix-people-item-ad) {
 		padding: 16px;
 	}
-	.promo-infinix-people-item img {
+	.promo-infinix-people-item-ad-177 {
+		display: block !important;
+	}
+	.promo-infinix-people-item-ad-200 {
+		display: none !important;
+	}
+	.promo-infinix-people-item:not(.promo-infinix-people-item-ad) img {
 		height: 145px;
 		width: 109px;
 		flex-basis: 109px;
@@ -591,8 +611,11 @@
 	.promo-infinix-reviews-item:nth-child(3) {
 		display: block;
 	}
-	.promo-infinix-people-item:nth-child(3) {
+	.promo-infinix-people-item:not(.promo-infinix-people-item-ad):nth-child(3) {
 		display: flex;
+	}
+	.promo-infinix-people-item-ad {
+		display: block;
 	}
 	.promo-infinix-video-item:nth-child(3) {
 		display: block;
