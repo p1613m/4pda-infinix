@@ -1,0 +1,25 @@
+<div class="promo-infinix-sidebar-ad">
+    <span class="promo-infinix-sidebar-ad-text">–еклама</span>
+    <span class="promo-infinix-sidebar-ad-url">Infinix Mobility Limited</span>
+</div>
+<div class="promo-infinix-sidebar">
+    <div class="promo-infinix-sidebar-title">SMART 8</div>
+    <div class="promo-infinix-sidebar-content">
+        <img src="images/card-4.png" alt="">
+        <div class="promo-infinix-sidebar-characteristics">
+            <div class="promo-infinix-sidebar-characteristics-item">
+                <div class="promo-infinix-sidebar-characteristics-key">Ёкран</div>
+                <div class="promo-infinix-sidebar-characteristics-value">6.56Ф| 90 √ц</div>
+            </div>
+            <div class="promo-infinix-sidebar-characteristics-item">
+                <div class="promo-infinix-sidebar-characteristics-key">Ѕатаре€</div>
+                <div class="promo-infinix-sidebar-characteristics-value">5000 мјч</div>
+            </div>
+            <div class="promo-infinix-sidebar-characteristics-item">
+                <div class="promo-infinix-sidebar-characteristics-key">ѕам€ть</div>
+                <div class="promo-infinix-sidebar-characteristics-value">8 √б + 128 √б</div>
+            </div>
+        </div>
+    </div>
+    <a href="https://ru.infinixmobility.com/SMART-8" class="promo-infinix-sidebar-button" target="_blank">ѕодробнее</a>
+</div>

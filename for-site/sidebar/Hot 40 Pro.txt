@@ -1,0 +1,29 @@
+<div class="promo-infinix-sidebar-ad">
+    <span class="promo-infinix-sidebar-ad-text">Реклама</span>
+    <span class="promo-infinix-sidebar-ad-url">Infinix Mobility Limited</span>
+</div>
+<div class="promo-infinix-sidebar">
+    <div class="promo-infinix-sidebar-title">Hot 40 Pro</div>
+    <div class="promo-infinix-sidebar-content">
+        <img src="images/card-1.png" alt="">
+        <div class="promo-infinix-sidebar-characteristics">
+            <div class="promo-infinix-sidebar-characteristics-item">
+                <div class="promo-infinix-sidebar-characteristics-key">Процессор</div>
+                <div class="promo-infinix-sidebar-characteristics-value">Helio G99</div>
+            </div>
+            <div class="promo-infinix-sidebar-characteristics-item">
+                <div class="promo-infinix-sidebar-characteristics-key">Камера</div>
+                <div class="promo-infinix-sidebar-characteristics-value">108 Мп + 32 Мп</div>
+            </div>
+            <div class="promo-infinix-sidebar-characteristics-item">
+                <div class="promo-infinix-sidebar-characteristics-key">Экран</div>
+                <div class="promo-infinix-sidebar-characteristics-value">120 Гц 6.78"</div>
+            </div>
+            <div class="promo-infinix-sidebar-characteristics-item">
+                <div class="promo-infinix-sidebar-characteristics-key">Батарея</div>
+                <div class="promo-infinix-sidebar-characteristics-value">5000 мАч</div>
+            </div>
+        </div>
+    </div>
+    <a href="https://ru.infinixmobility.com/HOT-40-PRO" class="promo-infinix-sidebar-button" target="_blank">Подробнее</a>
+</div>

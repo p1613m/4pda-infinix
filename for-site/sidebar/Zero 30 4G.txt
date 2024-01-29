@@ -1,0 +1,29 @@
+<div class="promo-infinix-sidebar-ad">
+    <span class="promo-infinix-sidebar-ad-text">Реклама</span>
+    <span class="promo-infinix-sidebar-ad-url">Infinix Mobility Limited</span>
+</div>
+<div class="promo-infinix-sidebar">
+    <div class="promo-infinix-sidebar-title">Zero 30 4G</div>
+    <div class="promo-infinix-sidebar-content">
+        <img src="images/card-3.png" alt="">
+        <div class="promo-infinix-sidebar-characteristics">
+            <div class="promo-infinix-sidebar-characteristics-item">
+                <div class="promo-infinix-sidebar-characteristics-key">Процессор</div>
+                <div class="promo-infinix-sidebar-characteristics-value">Helio G99</div>
+            </div>
+            <div class="promo-infinix-sidebar-characteristics-item">
+                <div class="promo-infinix-sidebar-characteristics-key">Камера</div>
+                <div class="promo-infinix-sidebar-characteristics-value">108 Мп + 50 Мп</div>
+            </div>
+            <div class="promo-infinix-sidebar-characteristics-item">
+                <div class="promo-infinix-sidebar-characteristics-key">Экран</div>
+                <div class="promo-infinix-sidebar-characteristics-value">120 Гц, 3D AMOLED</div>
+            </div>
+            <div class="promo-infinix-sidebar-characteristics-item">
+                <div class="promo-infinix-sidebar-characteristics-key">Память</div>
+                <div class="promo-infinix-sidebar-characteristics-value">16 Гб + 256 Гб</div>
+            </div>
+        </div>
+    </div>
+    <a href="https://ru.infinixmobility.com/Zero-30-4G" class="promo-infinix-sidebar-button" target="_blank">Подробнее</a>
+</div>

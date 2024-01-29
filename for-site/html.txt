@@ -1,0 +1,278 @@
+<div class="promo-infinix">
+	<div class="promo-inifinix-header">
+		<div class="promo-infinix-container">
+			<a href="https://4pda.to">
+				<i class="icon-4PDA-plain"></i>
+			</a>
+			<a href="https://4pda.to">Вернуться на сайт</a>
+		</div>
+	</div>
+
+	<div class="promo-infinix-slider promo-infinix-slider-desktop">
+		<div data-slick='{"prevArrow": "#promo-infinix-slider-controls-prev", "nextArrow": "#promo-infinix-slider-controls-next"}'>
+			<!-- Ссылки перехода со слайдов, ссылки на изображения слайлдов (desktop) -->
+			<a href="https://ru.infinixmobility.com/promote/CyberMonday" target="_blank">
+				<img src="images/slide-0.jpg" alt="">
+			</a>
+			<a href="https://ru.infinixmobility.com/HOT-40-PRO" target="_blank">
+				<img src="images/slide-1.jpg" alt="">
+			</a>
+			<a href="https://ru.infinixmobility.com/INBOOK-Y3-MAX" target="_blank">
+				<img src="images/slide-2.jpg" alt="">
+			</a>
+			<a href="https://ru.infinixmobility.com/Zero-30-4G" target="_blank">
+				<img src="images/slide-3.jpg" alt="">
+			</a>
+		</div>
+		<div class="promo-infinix-slider-controls">
+			<div class="promo-infinix-container">
+				<button class="promo-infinix-slider-controls-prev" id="promo-infinix-slider-controls-prev">
+					<svg width="78" height="30" viewBox="0 0 78 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+						<rect width="78" height="30" rx="15" fill="black" fill-opacity="0.8"/>
+						<path d="M13.292 14.2884C12.9014 14.6789 12.9013 15.312 13.2918 15.7026L19.6546 22.0677C20.0451 22.4583 20.6783 22.4584 21.0688 22.0679C21.4594 21.6775 21.4596 21.0443 21.0691 20.6537L15.4132 14.9959L21.0711 9.34003C21.4617 8.94957 21.4618 8.31641 21.0713 7.92581C20.6808 7.53522 20.0477 7.53511 19.6571 7.92557L13.292 14.2884ZM13.9988 15.9957L64.0008 16.0043L64.0012 14.0043L13.9992 13.9957L13.9988 15.9957Z"
+							  fill="white"/>
+					</svg>
+				</button>
+				<button class="promo-infinix-slider-controls-next" id="promo-infinix-slider-controls-next">
+					<svg width="78" height="30" viewBox="0 0 78 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+						<rect x="78" y="30" width="78" height="30" rx="15" transform="rotate(-180 78 30)" fill="black"
+							  fill-opacity="0.8"/>
+						<path d="M64.708 15.7116C65.0986 15.3211 65.0987 14.688 64.7082 14.2974L58.3454 7.9323C57.9549 7.54171 57.3217 7.5416 56.9312 7.93206C56.5406 8.32251 56.5404 8.95568 56.9309 9.34627L62.5868 15.0041L56.9289 20.66C56.5383 21.0504 56.5382 21.6836 56.9287 22.0742C57.3192 22.4648 57.9523 22.4649 58.3429 22.0744L64.708 15.7116ZM64.0012 14.0044L13.9992 13.9957L13.9988 15.9957L64.0008 16.0044L64.0012 14.0044Z"
+							  fill="white"/>
+					</svg>
+				</button>
+			</div>
+		</div>
+	</div>
+	<div class="promo-infinix-slider promo-infinix-slider-mobile">
+		<div data-slick='{"prevArrow": "#promo-infinix-slider-controls-prev-mobile", "nextArrow": "#promo-infinix-slider-controls-next-mobile"}'>
+			<!-- Ссылки перехода со слайдов, ссылки на изображения слайлдов (mobile) -->
+			<a href="https://ru.infinixmobility.com/promote/CyberMonday" target="_blank">
+				<img src="images/slide-0-mob.jpg" alt="">
+			</a>
+			<a href="https://ru.infinixmobility.com/HOT-40-PRO" target="_blank">
+				<img src="images/slide-1-mob.jpg" alt="">
+			</a>
+			<a href="https://ru.infinixmobility.com/INBOOK-Y3-MAX" target="_blank">
+				<img src="images/slide-2-mob.jpg" alt="">
+			</a>
+			<a href="https://ru.infinixmobility.com/Zero-30-4G" target="_blank">
+				<img src="images/slide-3-mob.jpg" alt="">
+			</a>
+		</div>
+		<div class="promo-infinix-slider-controls">
+			<div class="promo-infinix-container">
+				<button class="promo-infinix-slider-controls-prev" id="promo-infinix-slider-controls-prev-mobile">
+					<svg width="78" height="30" viewBox="0 0 78 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+						<rect width="78" height="30" rx="15" fill="black" fill-opacity="0.8"/>
+						<path d="M13.292 14.2884C12.9014 14.6789 12.9013 15.312 13.2918 15.7026L19.6546 22.0677C20.0451 22.4583 20.6783 22.4584 21.0688 22.0679C21.4594 21.6775 21.4596 21.0443 21.0691 20.6537L15.4132 14.9959L21.0711 9.34003C21.4617 8.94957 21.4618 8.31641 21.0713 7.92581C20.6808 7.53522 20.0477 7.53511 19.6571 7.92557L13.292 14.2884ZM13.9988 15.9957L64.0008 16.0043L64.0012 14.0043L13.9992 13.9957L13.9988 15.9957Z"
+							  fill="white"/>
+					</svg>
+				</button>
+				<button class="promo-infinix-slider-controls-next" id="promo-infinix-slider-controls-next-mobile">
+					<svg width="78" height="30" viewBox="0 0 78 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+						<rect x="78" y="30" width="78" height="30" rx="15" transform="rotate(-180 78 30)" fill="black"
+							  fill-opacity="0.8"/>
+						<path d="M64.708 15.7116C65.0986 15.3211 65.0987 14.688 64.7082 14.2974L58.3454 7.9323C57.9549 7.54171 57.3217 7.5416 56.9312 7.93206C56.5406 8.32251 56.5404 8.95568 56.9309 9.34627L62.5868 15.0041L56.9289 20.66C56.5383 21.0504 56.5382 21.6836 56.9287 22.0742C57.3192 22.4648 57.9523 22.4649 58.3429 22.0744L64.708 15.7116ZM64.0012 14.0044L13.9992 13.9957L13.9988 15.9957L64.0008 16.0044L64.0012 14.0044Z"
+							  fill="white"/>
+					</svg>
+				</button>
+			</div>
+		</div>
+	</div>
+
+	<div class="promo-infinix-nav">
+		<div class="promo-infinix-container">
+			<div class="promo-infinix-nav-first">
+				<!-- Ссылки навигации под слайдером. При необходимости можно добавить атрибут target="_blank" если необходимо открытие в новой вкладке  -->
+				<a href="#">Новости</a>
+				<a href="#">Обзоры</a>
+				<a href="#">Статьи</a>
+			</div>
+			<div class="promo-infinix-nav-second">
+				<a href="#">О бренде Infinix</a>
+				<div class="promo-infinix-nav-soc">
+					<!-- Ссылка на vk -->
+					<a href="https://vk.com/infinixrussia" target="_blank">
+						<svg width="43" height="26" viewBox="0 0 43 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+							<path d="M23.6345 26C9.4457 26 0.834772 16.2319 0.5 0H7.68626C7.91028 11.9235 13.3774 16.9837 17.5683 18.0152V0H24.4576V10.2876C28.5 9.84304 32.7287 5.16254 34.1534 0H40.9268C39.842 6.35139 35.2382 11.0319 31.9811 12.9625C35.2382 14.5235 40.4788 18.6096 42.5 26H35.052C33.4788 21.0597 29.6226 17.2334 24.4576 16.7139V26H23.6345Z"
+								  fill="#0077FF"/>
+						</svg>
+					</a>
+					<!-- Ссылка на tg -->
+					<a href="https://t.me/infinix_russia" target="_blank">
+						<svg width="37" height="32" viewBox="0 0 37 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+							<path d="M34.5026 0.703832L1.72767 13.3299C-0.50908 14.2274 -0.49614 15.474 1.31729 16.0298L9.73192 18.6522L29.2009 6.38068C30.1215 5.82112 30.9626 6.12213 30.2712 6.73525L14.4975 20.9569H14.4938L14.4975 20.9588L13.917 29.6236C14.7674 29.6236 15.1426 29.2339 15.6196 28.7741L19.7067 24.8036L28.2082 31.077C29.7758 31.9394 30.9016 31.4962 31.2916 29.6273L36.8724 3.35204C37.4436 1.06394 35.998 0.0279295 34.5026 0.703832Z"
+								  fill="#2AABEE"/>
+						</svg>
+					</a>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="promo-infinix-container">
+		<div class="promo-infinix-section">
+			<div class="promo-infinix-section-head">
+				<h2>Самое интересное</h2>
+				<a href="https://4pda.to/tag/infinix_spec/" target="_blank">ЧИТАТЬ ВСЕ</a>
+			</div>
+			<div class="promo-scroll-overflow">
+				<div class="promo-infinix-interesting-list">
+					<!-- Ссылки перехода и изображений раздела "Самое интересное" -->
+					<a href="https://4pda.to/2023/04/07/411855/" class="promo-infinix-interesting-item" target="_blank">
+						<img src="images/interesting-1.jpg" class="promo-infinix-interesting-image" alt="">
+						<div class="promo-infinix-interesting-title">Infinix привезла в Россию флагманские ноутбуки
+						</div>
+					</a>
+					<a href="https://4pda.to/2023/06/25/414894/" class="promo-infinix-interesting-item" target="_blank">
+						<img src="images/interesting-2.jpg" class="promo-infinix-interesting-image" alt="">
+						<div class="promo-infinix-interesting-title">Таков путь: семь дней с Infinix NOTE 30 Pro</div>
+					</a>
+					<a href="https://www.dns-shop.ru/search/?q=SMART+8+Plus&category=17a8a01d16404e77&utm_medium=referral&utm_source=away.vk.com&utm_referrer=https%3A%2F%2Faway.vk.com%2F" class="promo-infinix-interesting-item promo-infinix-interesting-item-ad" target="_blank">
+						<img src="images/ad.jpg" alt="">
+					</a>
+					<a href="https://4pda.to/tag/infinix_spec/" target="_blank" class="promo-infinix-read-all">
+						<span>Читать всё</span>
+					</a>
+				</div>
+			</div>
+			<!-- Баннер мобильной версии "Самое интересное" -->
+			<a href="https://www.dns-shop.ru/search/?q=SMART+8+Plus&category=17a8a01d16404e77&utm_medium=referral&utm_source=away.vk.com&utm_referrer=https%3A%2F%2Faway.vk.com%2F" class="promo-infinix-interesting-item-ad-mobile" target="_blank">
+				<img src="images/ad.jpg" alt="">
+			</a>
+		</div>
+
+		<div class="promo-infinix-section">
+			<div class="promo-infinix-section-head">
+				<h2>Обзоры</h2>
+				<a href="https://4pda.to/tag/infinix_spec-reviews/">ЧИТАТЬ ВСЕ</a>
+			</div>
+			<div class="promo-scroll-overflow">
+				<div class="promo-infinix-reviews-list">
+					<!-- Ссылки перехода и изображений раздела "Обзоры" -->
+					<a href="https://4pda.to/2023/12/27/422470/" class="promo-infinix-reviews-item" target="_blank">
+						<div class="promo-infinix-reviews-image-wrapper">
+							<img src="images/review-1.png" alt="">
+						</div>
+						<div class="promo-infinix-reviews-title">Infinix HOT 40</div>
+						<div class="promo-infinix-reviews-subtitle">Горячее обновление</div>
+					</a>
+					<a href="https://4pda.to/2024/01/06/422647/" class="promo-infinix-reviews-item" target="_blank">
+						<div class="promo-infinix-reviews-image-wrapper">
+							<img src="images/review-2.png" alt="">
+						</div>
+						<div class="promo-infinix-reviews-title">Infinix HOT 40 Pro</div>
+						<div class="promo-infinix-reviews-subtitle">Игривый малый</div>
+					</a>
+					<a href="https://4pda.to/2023/12/23/422389/" class="promo-infinix-reviews-item" target="_blank">
+						<div class="promo-infinix-reviews-image-wrapper">
+							<img src="images/review-3.png" alt="">
+						</div>
+						<div class="promo-infinix-reviews-title">INBOOK Y3 Max</div>
+						<div class="promo-infinix-reviews-subtitle">Уверенный игрок в среднем сегменте</div>
+					</a>
+					<a href="https://4pda.to/tag/infinix_spec-reviews/" class="promo-infinix-read-all" target="_blank">
+						<span>Читать всё</span>
+					</a>
+				</div>
+			</div>
+		</div>
+
+		<div class="promo-infinix-section">
+			<div class="promo-infinix-section-head">
+				<h2>О НАС ГОВОРЯТ</h2>
+				<a href="https://4pda.to/infinix/articles" target="_blank">ЧИТАТЬ ВСЕ</a>
+			</div>
+			<div class="promo-scroll-overflow">
+				<div class="promo-infinix-people-list">
+					<!-- Ссылки перехода и изображений раздела "О НАС ГОВОРЯТ" -->
+					<a href="https://4pda.to/special/infinix_note_12_2023/" class="promo-infinix-people-item" target="_blank">
+						<img src="images/people-1.png" alt="">
+						<div class="promo-infinix-people-right">
+							<div>
+								<div class="promo-infinix-people-suptitle">Infinix NOTE 12 2023</div>
+								<div class="promo-infinix-people-title">«Удачное развитие популярной серии»</div>
+							</div>
+							<div class="promo-infinix-people-author">Александр</div>
+						</div>
+					</a>
+					<a href="https://4pda.to/special/infinix_zero_30/" class="promo-infinix-people-item" target="_blank">
+						<img src="images/people-2.png" alt="">
+						<div class="promo-infinix-people-right">
+							<div>
+								<div class="promo-infinix-people-suptitle">Infinix ZERO 30</div>
+								<div class="promo-infinix-people-title">«Аппарат хорош и спереди, и сзади»</div>
+							</div>
+							<div class="promo-infinix-people-author">Ольга</div>
+						</div>
+					</a>
+					<a href="#" class="promo-infinix-people-item promo-infinix-people-item-ad">
+						<img src="images/people-200.jpg" class="promo-infinix-people-item-ad-200" alt="">
+						<img src="images/people-177.jpg" class="promo-infinix-people-item-ad-177" alt="">
+					</a>
+					<a href="https://4pda.to/infinix/articles" target="_blank" class="promo-infinix-read-all">
+						<span>Читать всё</span>
+					</a>
+				</div>
+			</div>
+			<!-- Баннер мобильной версии "О НАС ГОВОРЯТ" -->
+			<a href="#" class="promo-infinix-interesting-item-ad-mobile" target="_blank">
+				<img src="images/people-200.jpg" alt="">
+			</a>
+		</div>
+
+		<div class="promo-infinix-section">
+			<div class="promo-infinix-section-head">
+				<h2>Видео</h2>
+				<a href="https://www.youtube.com/@infinix9992" target="_blank">Смотреть ВСЕ</a>
+			</div>
+			<div class="promo-scroll-overflow">
+				<div class="promo-infinix-video-list">
+					<!-- Ссылки перехода и изображений раздела "Видео" -->
+					<a href="https://www.youtube.com/watch?v=giTk0hHz76Q" class="promo-infinix-video-item" target="_blank">
+						<div class="promo-infinix-video-image-wrapper">
+							<img src="images/video-2.jpg" alt="">
+							<svg width="86" height="91" viewBox="0 0 86 91" fill="none"
+								 xmlns="http://www.w3.org/2000/svg">
+								<path d="M16.6656 88.4086L16.6655 88.4086C9.37015 92.3343 0.5 87.1045 0.5 78.9196V11.3233C0.5 3.13364 9.37008 -2.09165 16.6657 1.82935L79.5069 35.6324L79.7438 35.1921L79.507 35.6324C87.1167 39.725 87.1167 50.5179 79.507 54.6105L16.6656 88.4086Z"
+									  fill="#64FF00" stroke="black"/>
+							</svg>
+						</div>
+						<div class="promo-infinix-video-title">Infinix HOT 40 Pro: Портал в мир развлечений</div>
+					</a>
+					<a href="https://www.youtube.com/watch?v=TlX0J8hcXUo" class="promo-infinix-video-item" target="_blank">
+						<div class="promo-infinix-video-image-wrapper">
+							<img src="images/video-1.jpg" alt="">
+							<svg width="86" height="91" viewBox="0 0 86 91" fill="none"
+								 xmlns="http://www.w3.org/2000/svg">
+								<path d="M16.6656 88.4086L16.6655 88.4086C9.37015 92.3343 0.5 87.1045 0.5 78.9196V11.3233C0.5 3.13364 9.37008 -2.09165 16.6657 1.82935L79.5069 35.6324L79.7438 35.1921L79.507 35.6324C87.1167 39.725 87.1167 50.5179 79.507 54.6105L16.6656 88.4086Z" />
+							</svg>
+						</div>
+						<div class="promo-infinix-video-title">Infinix GT 10 Pro: Создан побеждать</div>
+					</a>
+					<a href="https://www.youtube.com/watch?v=2FRrdYsGH7g" class="promo-infinix-video-item" target="_blank">
+						<div class="promo-infinix-video-image-wrapper">
+							<img src="images/video-3.jpg" alt="">
+							<svg width="86" height="91" viewBox="0 0 86 91" fill="none"
+								 xmlns="http://www.w3.org/2000/svg">
+								<path d="M16.6656 88.4086L16.6655 88.4086C9.37015 92.3343 0.5 87.1045 0.5 78.9196V11.3233C0.5 3.13364 9.37008 -2.09165 16.6657 1.82935L79.5069 35.6324L79.7438 35.1921L79.507 35.6324C87.1167 39.725 87.1167 50.5179 79.507 54.6105L16.6656 88.4086Z"
+									  fill="#64FF00" stroke="black"/>
+							</svg>
+						</div>
+						<div class="promo-infinix-video-title">Infinix ZERO 30: Создай свою историю</div>
+					</a>
+					<a href="https://www.youtube.com/@infinix9992" class="promo-infinix-read-all" target="_blank">
+						<span>Смотреть всё</span>
+					</a>
+				</div>
+			</div>
+		</div>
+
+		<div class="promo-infinix-section">
+			<div class="promo-infinix-section-head">
+				<h2>Все публикации</h2>
+			</div>
+		</div>
+	</div>
+</div>

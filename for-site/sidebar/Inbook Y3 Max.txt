@@ -1,0 +1,29 @@
+<div class="promo-infinix-sidebar-ad">
+    <span class="promo-infinix-sidebar-ad-text">Реклама</span>
+    <span class="promo-infinix-sidebar-ad-url">Infinix Mobility Limited</span>
+</div>
+<div class="promo-infinix-sidebar promo-infinix-sidebar-landscape">
+    <div class="promo-infinix-sidebar-title">Inbook Y3 Max</div>
+    <div class="promo-infinix-sidebar-content">
+        <img src="images/card-2.png" alt="">
+        <div class="promo-infinix-sidebar-characteristics">
+            <div class="promo-infinix-sidebar-characteristics-item">
+                <div class="promo-infinix-sidebar-characteristics-key">Процессор</div>
+                <div class="promo-infinix-sidebar-characteristics-value">Intel Core Gen 12</div>
+            </div>
+            <div class="promo-infinix-sidebar-characteristics-item">
+                <div class="promo-infinix-sidebar-characteristics-key">Экран</div>
+                <div class="promo-infinix-sidebar-characteristics-value">16", Full HD+</div>
+            </div>
+            <div class="promo-infinix-sidebar-characteristics-item">
+                <div class="promo-infinix-sidebar-characteristics-key">Батарея</div>
+                <div class="promo-infinix-sidebar-characteristics-value">70 Вт.ч</div>
+            </div>
+            <div class="promo-infinix-sidebar-characteristics-item">
+                <div class="promo-infinix-sidebar-characteristics-key">Память</div>
+                <div class="promo-infinix-sidebar-characteristics-value">16 Гб + 512 Гб</div>
+            </div>
+        </div>
+    </div>
+    <a href="https://ru.infinixmobility.com/INBOOK-Y3-MAX" class="promo-infinix-sidebar-button" target="_blank">Подробнее</a>
+</div>
