@@ -184,6 +184,12 @@
 	left: 0;
 	right: 0;
 }
+.promo-infinix-slider-controls button:hover svg rect {
+	fill: #64FF00;
+}
+.promo-infinix-slider-controls button:hover svg path {
+	fill: black;
+}
 .promo-infinix-slider-controls .promo-infinix-container {
 	display: flex;
 	justify-content: flex-end;
@@ -241,11 +247,14 @@
 	left: 50%;
 	transform: translate(-50%, -50%);
 }
-.promo-infinix-nav-soc a:hover {
-	background-color: transparent;
+.promo-infinix-nav-soc a:first-child:hover {
+	background-color: #0077FF;
+}
+.promo-infinix-nav-soc a:last-child:hover {
+	background-color: #2AABEE;
 }
 .promo-infinix-nav-soc a:hover path {
-	fill: #64FF00;
+	fill: white;
 }
 
 .promo-infinix-section {
@@ -266,6 +275,9 @@
 .promo-infinix-section-head a {
 	font-size: 18px;
 	text-decoration: underline;
+}
+.promo-infinix-section-head a:hover {
+	text-decoration: none;
 }
 
 .promo-infinix-interesting-list {
@@ -817,7 +829,7 @@
 }
 .promo-infinix-sidebar-button:hover {
 	color: black !important;
-	background-color: #00B419;
+	background-color: #64FF00;
 }
 .promo-infinix-sidebar-landscape .promo-infinix-sidebar-content {
 	flex-direction: column;
