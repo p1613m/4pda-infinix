@@ -1,13 +1,5 @@
-<div class="promo-infinix">
-	<div class="promo-inifinix-header">
-		<div class="promo-infinix-container">
-			<a href="https://4pda.to">
-				<i class="icon-4PDA-plain"></i>
-			</a>
-			<a href="https://4pda.to">Вернуться на сайт</a>
-		</div>
-	</div>
 
+<div class="promo-infinix">
 	<div class="promo-infinix-slider promo-infinix-slider-desktop">
 		<div data-slick='{"prevArrow": "#promo-infinix-slider-controls-prev", "nextArrow": "#promo-infinix-slider-controls-next"}'>
 			<!-- Ссылки перехода со слайдов, ссылки на изображения слайлдов (desktop) -->
