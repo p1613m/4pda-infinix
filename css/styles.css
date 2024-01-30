@@ -852,8 +852,10 @@
 	color: black !important;
 	background-color: #64FF00;
 }
-.promo-infinix-sidebar-landscape {
+.promo-infinix-sidebar {
 	width: 100%;
+}
+.promo-infinix-sidebar-landscape {
 	padding-top: 12px;
 }
 .promo-infinix-sidebar-landscape .promo-infinix-sidebar-content {
